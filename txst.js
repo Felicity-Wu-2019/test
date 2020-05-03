@@ -1,1 +1,2 @@
-console.log('how to do')
+var fs = require('fs')
+var http = require('http')
